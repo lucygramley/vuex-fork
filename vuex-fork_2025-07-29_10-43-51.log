@@ -1,0 +1,246 @@
+[2025-07-29 10:43:51.730] Changing working directory from C:\Users\lucygramley to c:\Users\lucygramley\Downloads\ai_test_repos\vuex-fork
+[2025-07-29 10:43:58.836] Updating 34 packages at c:\Users\lucygramley\Downloads\ai_test_repos\vuex-fork
+[2025-07-29 10:44:03.590] Analyzing project at: c:\Users\lucygramley\Downloads\ai_test_repos\vuex-fork
+[2025-07-29 10:44:03.592] Analyzing repository structure...
+[2025-07-29 10:44:03.811] No monorepo structure detected
+[2025-07-29 10:44:03.812] Generating installation commands...
+[2025-07-29 10:44:03.825] Found 1 package installation tasks
+[2025-07-29 10:44:03.826] Installing packages...
+[2025-07-29 10:44:43.493] Looking for local TypeScript installation...
+[2025-07-29 10:44:43.497] Using local TypeScript compiler at: c:\Users\lucygramley\Downloads\ai_test_repos\vuex-fork\node_modules\typescript\lib\tsc.js
+[2025-07-29 10:44:43.499] Building project to collect baseline errors...
+[2025-07-29 10:44:50.956] Found 0 errors in initial build
+[2025-07-29 10:45:33.867] Updating packages in the following order:
+ @vue/devtools-api, @babel/core @babel/preset-env babel-jest babel-loader css-loader vue-loader webpack webpack-dev-middleware, @rollup/plugin-buble @rollup/plugin-commonjs @rollup/plugin-node-resolve @rollup/plugin-replace rollup, @types/node, chalk, conventional-changelog-cli, cross-env, enquirer, eslint, execa, express, fs-extra, jest, jest-environment-jsdom, puppeteer, regenerator-runtime, semver, start-server-and-test, todomvc-app-css, typescript vue, vitepress, webpack-hot-middleware
+[2025-07-29 10:45:34.037] Using VS Code provided token for Kusto authentication
+[2025-07-29 10:45:34.056] Updating package group (1/22): @vue/devtools-api
+[2025-07-29 10:45:44.825] Updating @vue/devtools-api from ^6.4.4 to ^8.0.0
+[2025-07-29 10:45:47.099] No new errors found after updating @vue/devtools-api.
+[2025-07-29 10:45:47.101] Modified files while updating package(s) @vue/devtools-api: 
+package.json
+yarn.lock
+[2025-07-29 10:45:47.104] Deleted temp directory for PackageUpdater.
+[2025-07-29 10:45:47.105] Package group @vue/devtools-api completed in 00:00:13.
+Successfully upgraded 1 packages: @vue/devtools-api
+[2025-07-29 10:45:47.107] Using VS Code provided token for Kusto authentication
+[2025-07-29 10:45:47.108] Updating package group (2/22): @babel/core @babel/preset-env babel-jest babel-loader css-loader vue-loader webpack webpack-dev-middleware
+[2025-07-29 10:46:29.511] Updating @babel/core from ^7.19.3 to ^7.28.0, @babel/preset-env from ^7.19.4 to ^7.28.0, babel-jest from ^29.2.0 to ^30.0.5, babel-loader from ^8.2.5 to ^10.0.0, css-loader from ^2.1.0 to ^7.1.2, vue-loader from ^17.0.0 to ^17.4.2, webpack from ^4.43.0 to ^5.101.0, webpack-dev-middleware from ^3.7.2 to ^7.4.2
+[2025-07-29 10:46:32.091] No new errors found after updating @babel/core @babel/preset-env babel-jest babel-loader css-loader vue-loader webpack webpack-dev-middleware.
+[2025-07-29 10:46:32.093] Modified files while updating package(s) @babel/core @babel/preset-env babel-jest babel-loader css-loader vue-loader webpack webpack-dev-middleware: 
+package.json
+yarn.lock
+[2025-07-29 10:46:32.095] Deleted temp directory for PackageUpdater.
+[2025-07-29 10:46:32.097] Package group @babel/core @babel/preset-env babel-jest babel-loader css-loader vue-loader webpack webpack-dev-middleware completed in 00:00:44.
+Successfully upgraded 8 packages: @babel/core,@babel/preset-env,babel-jest,babel-loader,css-loader,vue-loader,webpack,webpack-dev-middleware
+[2025-07-29 10:46:32.099] Using VS Code provided token for Kusto authentication
+[2025-07-29 10:46:32.101] Updating package group (3/22): @rollup/plugin-buble @rollup/plugin-commonjs @rollup/plugin-node-resolve @rollup/plugin-replace rollup
+[2025-07-29 10:46:46.011] Updating @rollup/plugin-buble from ^1.0.0 to ^1.0.3, @rollup/plugin-commonjs from ^13.0.0 to ^28.0.6, @rollup/plugin-node-resolve from ^15.0.0 to ^16.0.1, @rollup/plugin-replace from ^5.0.0 to ^6.0.2, rollup from ^2.79.1 to ^4.46.1
+[2025-07-29 10:46:49.002] No new errors found after updating @rollup/plugin-buble @rollup/plugin-commonjs @rollup/plugin-node-resolve @rollup/plugin-replace rollup.
+[2025-07-29 10:46:49.004] Modified files while updating package(s) @rollup/plugin-buble @rollup/plugin-commonjs @rollup/plugin-node-resolve @rollup/plugin-replace rollup: 
+package.json
+yarn.lock
+[2025-07-29 10:46:49.007] Deleted temp directory for PackageUpdater.
+[2025-07-29 10:46:49.008] Package group @rollup/plugin-buble @rollup/plugin-commonjs @rollup/plugin-node-resolve @rollup/plugin-replace rollup completed in 00:00:16.
+Successfully upgraded 5 packages: @rollup/plugin-buble,@rollup/plugin-commonjs,@rollup/plugin-node-resolve,@rollup/plugin-replace,rollup
+[2025-07-29 10:46:49.011] Using VS Code provided token for Kusto authentication
+[2025-07-29 10:46:49.013] Updating package group (4/22): @types/node
+[2025-07-29 10:47:02.947] Updating @types/node from ^18.11.0 to ^24.1.0
+[2025-07-29 10:47:08.532] No new errors found after updating @types/node.
+[2025-07-29 10:47:08.534] Modified files while updating package(s) @types/node: 
+package.json
+yarn.lock
+[2025-07-29 10:47:08.537] Deleted temp directory for PackageUpdater.
+[2025-07-29 10:47:08.539] Package group @types/node completed in 00:00:19.
+Successfully upgraded 1 packages: @types/node
+[2025-07-29 10:47:08.541] Using VS Code provided token for Kusto authentication
+[2025-07-29 10:47:08.543] Updating package group (5/22): chalk
+[2025-07-29 10:47:19.383] Updating chalk from ^4.1.1 to ^5.4.1
+[2025-07-29 10:47:22.211] No new errors found after updating chalk.
+[2025-07-29 10:47:22.213] Modified files while updating package(s) chalk: 
+package.json
+yarn.lock
+[2025-07-29 10:47:22.216] Deleted temp directory for PackageUpdater.
+[2025-07-29 10:47:22.218] Package group chalk completed in 00:00:13.
+Successfully upgraded 1 packages: chalk
+[2025-07-29 10:47:22.221] Using VS Code provided token for Kusto authentication
+[2025-07-29 10:47:22.222] Updating package group (6/22): conventional-changelog-cli
+[2025-07-29 10:47:35.413] Updating conventional-changelog-cli from ^2.2.2 to ^5.0.0
+[2025-07-29 10:47:38.052] No new errors found after updating conventional-changelog-cli.
+[2025-07-29 10:47:38.055] Modified files while updating package(s) conventional-changelog-cli: 
+package.json
+yarn.lock
+[2025-07-29 10:47:38.059] Deleted temp directory for PackageUpdater.
+[2025-07-29 10:47:38.061] Package group conventional-changelog-cli completed in 00:00:15.
+Successfully upgraded 1 packages: conventional-changelog-cli
+[2025-07-29 10:47:38.063] Using VS Code provided token for Kusto authentication
+[2025-07-29 10:47:38.065] Updating package group (7/22): cross-env
+[2025-07-29 10:47:49.506] Updating cross-env from ^7.0.3 to ^10.0.0
+[2025-07-29 10:47:52.220] No new errors found after updating cross-env.
+[2025-07-29 10:47:52.222] Modified files while updating package(s) cross-env: 
+package.json
+yarn.lock
+[2025-07-29 10:47:52.224] Deleted temp directory for PackageUpdater.
+[2025-07-29 10:47:52.225] Package group cross-env completed in 00:00:14.
+Successfully upgraded 1 packages: cross-env
+[2025-07-29 10:47:52.227] Using VS Code provided token for Kusto authentication
+[2025-07-29 10:47:52.229] Updating package group (8/22): enquirer
+[2025-07-29 10:48:02.757] Updating enquirer from ^2.3.6 to ^2.4.1
+[2025-07-29 10:48:05.330] No new errors found after updating enquirer.
+[2025-07-29 10:48:05.332] Modified files while updating package(s) enquirer: 
+package.json
+yarn.lock
+[2025-07-29 10:48:05.335] Deleted temp directory for PackageUpdater.
+[2025-07-29 10:48:05.336] Package group enquirer completed in 00:00:13.
+Successfully upgraded 1 packages: enquirer
+[2025-07-29 10:48:05.338] Using VS Code provided token for Kusto authentication
+[2025-07-29 10:48:05.339] Updating package group (9/22): eslint
+[2025-07-29 10:48:17.313] Updating eslint from ^7.32.0 to ^9.32.0
+[2025-07-29 10:48:19.852] No new errors found after updating eslint.
+[2025-07-29 10:48:19.854] Modified files while updating package(s) eslint: 
+package.json
+yarn.lock
+[2025-07-29 10:48:19.856] Deleted temp directory for PackageUpdater.
+[2025-07-29 10:48:19.857] Package group eslint completed in 00:00:14.
+Successfully upgraded 1 packages: eslint
+[2025-07-29 10:48:19.861] Using VS Code provided token for Kusto authentication
+[2025-07-29 10:48:19.862] Updating package group (10/22): execa
+[2025-07-29 10:48:30.730] Updating execa from ^5.0.0 to ^9.6.0
+[2025-07-29 10:48:33.354] No new errors found after updating execa.
+[2025-07-29 10:48:33.359] Modified files while updating package(s) execa: 
+package.json
+yarn.lock
+[2025-07-29 10:48:33.361] Deleted temp directory for PackageUpdater.
+[2025-07-29 10:48:33.363] Package group execa completed in 00:00:13.
+Successfully upgraded 1 packages: execa
+[2025-07-29 10:48:33.366] Using VS Code provided token for Kusto authentication
+[2025-07-29 10:48:33.368] Updating package group (11/22): express
+[2025-07-29 10:48:44.535] Updating express from ^4.18.2 to ^5.1.0
+[2025-07-29 10:48:47.083] No new errors found after updating express.
+[2025-07-29 10:48:47.086] Modified files while updating package(s) express: 
+package.json
+yarn.lock
+[2025-07-29 10:48:47.090] Deleted temp directory for PackageUpdater.
+[2025-07-29 10:48:47.092] Package group express completed in 00:00:13.
+Successfully upgraded 1 packages: express
+[2025-07-29 10:48:47.095] Using VS Code provided token for Kusto authentication
+[2025-07-29 10:48:47.097] Updating package group (12/22): fs-extra
+[2025-07-29 10:48:57.279] Updating fs-extra from ^10.1.0 to ^11.3.0
+[2025-07-29 10:49:00.085] No new errors found after updating fs-extra.
+[2025-07-29 10:49:00.087] Modified files while updating package(s) fs-extra: 
+package.json
+yarn.lock
+[2025-07-29 10:49:00.089] Deleted temp directory for PackageUpdater.
+[2025-07-29 10:49:00.093] Package group fs-extra completed in 00:00:12.
+Successfully upgraded 1 packages: fs-extra
+[2025-07-29 10:49:00.094] Using VS Code provided token for Kusto authentication
+[2025-07-29 10:49:00.096] Updating package group (13/22): jest
+[2025-07-29 10:49:18.228] Updating jest from ^29.2.0 to ^30.0.5
+[2025-07-29 10:49:20.932] No new errors found after updating jest.
+[2025-07-29 10:49:20.934] Modified files while updating package(s) jest: 
+package.json
+yarn.lock
+[2025-07-29 10:49:20.936] Deleted temp directory for PackageUpdater.
+[2025-07-29 10:49:20.937] Package group jest completed in 00:00:20.
+Successfully upgraded 1 packages: jest
+[2025-07-29 10:49:20.939] Using VS Code provided token for Kusto authentication
+[2025-07-29 10:49:20.941] Updating package group (14/22): jest-environment-jsdom
+[2025-07-29 10:49:33.382] Updating jest-environment-jsdom from ^29.2.0 to ^30.0.5
+[2025-07-29 10:49:36.059] No new errors found after updating jest-environment-jsdom.
+[2025-07-29 10:49:36.061] Modified files while updating package(s) jest-environment-jsdom: 
+package.json
+yarn.lock
+[2025-07-29 10:49:36.064] Deleted temp directory for PackageUpdater.
+[2025-07-29 10:49:36.066] Package group jest-environment-jsdom completed in 00:00:15.
+Successfully upgraded 1 packages: jest-environment-jsdom
+[2025-07-29 10:49:36.068] Using VS Code provided token for Kusto authentication
+[2025-07-29 10:49:36.070] Updating package group (15/22): puppeteer
+[2025-07-29 10:49:54.438] Updating puppeteer from ^19.0.0 to ^24.15.0
+[2025-07-29 10:49:57.043] No new errors found after updating puppeteer.
+[2025-07-29 10:49:57.045] Modified files while updating package(s) puppeteer: 
+package.json
+yarn.lock
+[2025-07-29 10:49:57.048] Deleted temp directory for PackageUpdater.
+[2025-07-29 10:49:57.050] Package group puppeteer completed in 00:00:20.
+Successfully upgraded 1 packages: puppeteer
+[2025-07-29 10:49:57.052] Using VS Code provided token for Kusto authentication
+[2025-07-29 10:49:57.053] Updating package group (16/22): regenerator-runtime
+[2025-07-29 10:50:04.348] Updating regenerator-runtime from ^0.13.5 to ^0.14.1
+[2025-07-29 10:50:06.819] No new errors found after updating regenerator-runtime.
+[2025-07-29 10:50:06.821] Modified files while updating package(s) regenerator-runtime: 
+package.json
+yarn.lock
+[2025-07-29 10:50:06.823] Deleted temp directory for PackageUpdater.
+[2025-07-29 10:50:06.825] Package group regenerator-runtime completed in 00:00:09.
+Successfully upgraded 1 packages: regenerator-runtime
+[2025-07-29 10:50:06.828] Using VS Code provided token for Kusto authentication
+[2025-07-29 10:50:06.829] Updating package group (17/22): semver
+[2025-07-29 10:50:13.359] Updating semver from ^7.3.5 to ^7.7.2
+[2025-07-29 10:50:15.883] No new errors found after updating semver.
+[2025-07-29 10:50:15.888] Modified files while updating package(s) semver: 
+package.json
+yarn.lock
+[2025-07-29 10:50:15.891] Deleted temp directory for PackageUpdater.
+[2025-07-29 10:50:15.893] Package group semver completed in 00:00:09.
+Successfully upgraded 1 packages: semver
+[2025-07-29 10:50:15.897] Using VS Code provided token for Kusto authentication
+[2025-07-29 10:50:15.898] Updating package group (18/22): start-server-and-test
+[2025-07-29 10:50:24.605] Updating start-server-and-test from ^1.12.3 to ^2.0.12
+[2025-07-29 10:50:27.285] No new errors found after updating start-server-and-test.
+[2025-07-29 10:50:27.288] Modified files while updating package(s) start-server-and-test: 
+package.json
+yarn.lock
+[2025-07-29 10:50:27.290] Deleted temp directory for PackageUpdater.
+[2025-07-29 10:50:27.293] Package group start-server-and-test completed in 00:00:11.
+Successfully upgraded 1 packages: start-server-and-test
+[2025-07-29 10:50:27.294] Using VS Code provided token for Kusto authentication
+[2025-07-29 10:50:27.295] Updating package group (19/22): todomvc-app-css
+[2025-07-29 10:50:34.389] Updating todomvc-app-css from ^2.4.1 to ^2.4.3
+[2025-07-29 10:50:36.988] No new errors found after updating todomvc-app-css.
+[2025-07-29 10:50:36.990] Modified files while updating package(s) todomvc-app-css: 
+package.json
+yarn.lock
+[2025-07-29 10:50:36.994] Deleted temp directory for PackageUpdater.
+[2025-07-29 10:50:36.996] Package group todomvc-app-css completed in 00:00:09.
+Successfully upgraded 1 packages: todomvc-app-css
+[2025-07-29 10:50:36.999] Using VS Code provided token for Kusto authentication
+[2025-07-29 10:50:37.001] Updating package group (20/22): typescript vue
+[2025-07-29 10:50:45.532] Updating typescript from ^4.8.4 to ^5.8.3, vue from ^3.2.41 to ^3.5.18
+[2025-07-29 10:50:51.952] No new errors found after updating typescript vue.
+[2025-07-29 10:50:51.954] Modified files while updating package(s) typescript vue: 
+package.json
+yarn.lock
+[2025-07-29 10:50:51.956] Deleted temp directory for PackageUpdater.
+[2025-07-29 10:50:51.958] Package group typescript vue completed in 00:00:14.
+Successfully upgraded 2 packages: typescript,vue
+[2025-07-29 10:50:51.961] Using VS Code provided token for Kusto authentication
+[2025-07-29 10:50:51.962] Updating package group (21/22): vitepress
+[2025-07-29 10:51:11.249] Updating vitepress from ^0.20.0 to ^1.6.3
+[2025-07-29 10:51:13.428] No new errors found after updating vitepress.
+[2025-07-29 10:51:13.431] Modified files while updating package(s) vitepress: 
+package.json
+yarn.lock
+[2025-07-29 10:51:13.432] Deleted temp directory for PackageUpdater.
+[2025-07-29 10:51:13.433] Package group vitepress completed in 00:00:21.
+Successfully upgraded 1 packages: vitepress
+[2025-07-29 10:51:13.435] Using VS Code provided token for Kusto authentication
+[2025-07-29 10:51:13.437] Updating package group (22/22): webpack-hot-middleware
+[2025-07-29 10:51:20.359] Updating webpack-hot-middleware from ^2.25.0 to ^2.26.1
+[2025-07-29 10:51:22.435] No new errors found after updating webpack-hot-middleware.
+[2025-07-29 10:51:22.437] Modified files while updating package(s) webpack-hot-middleware: 
+package.json
+yarn.lock
+[2025-07-29 10:51:22.439] Deleted temp directory for PackageUpdater.
+[2025-07-29 10:51:22.441] Package group webpack-hot-middleware completed in 00:00:09.
+Successfully upgraded 1 packages: webpack-hot-middleware
+[2025-07-29 10:51:22.443] All packages updated.
+[2025-07-29 10:51:22.445] Updater completed in 00:07:30.
+Successfully upgraded 34 packages.
+Partially upgraded 0 packages.
+Unable to upgrade 0 packages.
+Total packages available for upgrade: 34
+[2025-07-29 10:51:22.448] === Token Usage Summary ===
+Total API Calls: 0
+Total Tokens: 0 (Prompt: 0, Completion: 0)
+Usage by Model:
+
+[2025-07-29 10:51:22.449] Report written to c:\Users\lucygramley\.vscode-insiders\extensions\emilyfischer.jsts-upgrade-extension-0.0.1\dist\updates\logs\vuex-fork_2025-07-29_10-43-51.txt
